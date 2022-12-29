@@ -1,0 +1,4 @@
+Git Add .
+Git commit -m “commit message”
+git remote add origin url
+git push origin master
